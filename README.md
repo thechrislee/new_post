@@ -1,5 +1,5 @@
 # new_post
-Python program that generates Jekyll blog posts. Posts are generated using python string templates. 
+Python program that generates Jekyll blog posts. Posts are generated using python template strings. 
 
 ```python
 $ ./new_post.py -h
